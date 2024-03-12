@@ -1,0 +1,3 @@
+### Example from GoF book
+This example uses the method as described in the Gang of Four (GOF) book. However, such usage is rarely encountered in real-life scenarios, practically never. The example itself contradicts its purpose. Its task is to reduce the number of dependencies, which it doesn't effectively accomplish.
+Problem in this pattern are at we want to reduce dependencies from client code (main class) but is still have many dependencies.
